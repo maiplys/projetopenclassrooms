@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <script src="alert/dist/sweetalert-dev.js"></script>
+<script src="alert/dist/sweetalert-dev.js"></script>
   <link rel="stylesheet" href="alert/dist/sweetalert.css">
 </head>
 <body>
@@ -28,7 +25,6 @@ function JSalert(){
             } });
 }
 </script>
-</body>
-</html>
+
 
 
